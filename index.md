@@ -27,7 +27,7 @@ CODIGO DO JUREGAO
 
 [Link](url) and ![Image](src)
 ```
-![Image]https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0JwydMlR7Sz_F7eot8xRsZd7JwX6lJX3SKdoUfISI9IB5TA72
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0JwydMlR7Sz_F7eot8xRsZd7JwX6lJX3SKdoUfISI9IB5TA72)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
